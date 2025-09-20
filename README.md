@@ -37,6 +37,10 @@ This tutorial requires four (4) ARM64 or AMD64 based virtual or physical machine
 * [Bootstrapping the etcd Cluster](docs/07-bootstrapping-etcd.md)
 * [Bootstrapping the Kubernetes Control Plane](docs/08-bootstrapping-kubernetes-controllers.md)
 * [Bootstrapping the Kubernetes Worker Nodes](docs/09-bootstrapping-kubernetes-workers.md)
+
+
+  ## Learning
+  decide to make a kubernetes cluster on GCP first then capture the knowledge to know next step
 * [Configuring kubectl for Remote Access](docs/10-configuring-kubectl.md)
 * [Provisioning Pod Network Routes](docs/11-pod-network-routes.md)
 * [Smoke Test](docs/12-smoke-test.md)
